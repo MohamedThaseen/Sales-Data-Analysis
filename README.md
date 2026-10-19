@@ -118,5 +118,4 @@ Each segment is visualised as a bar chart (Seaborn) with labelled values.
 - Planned additions: correlation analysis, Outlet Type and Item Visibility effects on sales, and a predictive sales model.
 
 ## Author
-
-*Your Name*, [LinkedIn](#) | [GitHub](#)
+A Mohamed Rifakath Ali
